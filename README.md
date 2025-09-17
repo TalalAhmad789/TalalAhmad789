@@ -9,6 +9,7 @@
 - 🔥 2+ years of experience in **Web Development & Python**
 - 🌐 Skilled in **React, Next.js, Node.js, and MongoDB**
 - 🐍 Building **automation tools, APIs, and scalable apps** in Python
+- 📱 Building **cross-platform apps** and modern web applications
 - 🎯 Always exploring new technologies and improving my craft
 - 📍 Based in **Pakistan**
 
