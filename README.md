@@ -1,7 +1,13 @@
 <!-- Modern GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Talal</h1>
-<h3 align="center">💻 Web Developer | 📱 App Developer | 🐍 Python Expert | 🚀 Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">Talal</span></h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-%2300C4CC.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App%20Developer-%234285F4.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Expert-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-%23FF4500.svg?&style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
 
 ---
 
