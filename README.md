@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">Talal</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">Talal Ahmad</span></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-%2300C4CC.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white"/>
